@@ -27,7 +27,7 @@ Then add the dependency to your app's `build.gradle.kts` file:
 
 ```kotlin
 dependencies {
-    implementation ("com.github.samyak2403:BottomPro:Tag")
+    implementation ("com.github.samyak2403:BottomPro:1.0.0")
 }
 ```
 
