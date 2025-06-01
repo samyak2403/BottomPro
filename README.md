@@ -2,7 +2,7 @@
 
 A stylish custom bottom navigation bar for Android with a prominent center action button and beautiful animations.
 
-![BottomBarPro](https://i.imgur.com/example.png)
+![BottomBarPro](https://github.com/samyak2403/BottomPro/blob/master/images/1.png)
 
 ## Features
 
